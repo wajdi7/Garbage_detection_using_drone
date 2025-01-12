@@ -1,4 +1,4 @@
-# arbage_detection_using_drone
+# Garbage_detection_using_drone
 Areal garbage detection using drone ,YOLO8v, kaggle dataset ,split data, CNN model 
 create Data set connection with API JISON 
 
